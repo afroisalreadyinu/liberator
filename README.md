@@ -14,10 +14,10 @@ No idea
 
 ## Todos
 
-[ ] Dependency management with quicklisp
+- [ ] Dependency management with quicklisp
 
-[ ] Add [GTK](http://www.crategus.com/books/cl-gtk/gtk-tutorial.html#Getting_started) dependencies and create a window.
+- [ ] Add [GTK](http://www.crategus.com/books/cl-gtk/gtk-tutorial.html#Getting_started) dependencies and create a window.
 
-[ ] Display a timer
+- [ ] Display a timer
 
-[ ] How to read keyboard and mouse events?
+- [ ] How to read keyboard and mouse events?
